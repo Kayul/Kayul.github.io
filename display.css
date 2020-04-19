@@ -1,0 +1,139 @@
+/* Style the button that is used to open and close the collapsible content */
+body{
+	margin:0;
+	padding:0;
+}
+
+#home{
+	/*background-color: #ebebeb;*/
+}
+
+hr{
+	margin:0;
+	border: solid 12px #1f1f1f;
+}
+
+h1{
+	margin-top: 0.5em;
+	font-family: Atlanta, sans-serif;
+	font-size: 3em;
+	font-weight: 200;
+	width: 96%;
+	padding: 0.5em 2% 0.1em;
+	margin:0;
+}
+
+h2{
+	text-transform: uppercase;
+	margin-top: 0.5em;
+}
+
+#page {
+	margin:0;
+	padding: 0;
+}
+
+#main {
+	background-color: #ebebeb;
+    color: #000000;
+    width: 96%;
+	padding: 1em 2%;
+	width: 100%;
+}
+
+.classTitle {
+	
+}
+
+.classTitle a{
+	text-decoration: none;
+	color: #1f1f1f;
+	background-color: #ebebeb;
+	
+	display: block;
+	width: 30%;
+	
+	font-size: 1em;
+	font-family: Atlanta, sans-serif;
+	padding: 0.5em 3%;
+	margin:0;
+}
+
+.classTitle a:hover{
+	font-weight: 600;
+	background-color: #1f1f1f;
+	color: #ebebeb;
+}
+
+#title {
+    background-color: #ffffff;
+    color: #000000;
+    width: 96;
+    text-align: left;
+    outline: none;
+    font-size: 3em;
+	font-family: Atlanta, sans-serif;
+	padding: 0.5em 2% 0.1em;
+}
+
+#hierarchy {
+    width: 96%;
+    background-color: #000000;
+	
+	font-size: 1.5em;
+	font-family: Atlanta, sans-serif;
+	
+	padding: 0.5em 2%;
+}
+
+.hElement {
+    width: 100%;
+    color: #ffffff;
+    text-align: left;
+}
+
+#members{
+	width: 96%;
+	padding: 1em 2%;
+	background-color: #dddddd;
+	border-bottom: solid 1px #000;
+	
+	font-family: "Calibri Light", sans-serif;
+}
+
+.member {
+    width: 100%;
+	margin-bottom: 1em;
+}
+
+.memberHeader {
+	font-weight: 600;
+}
+
+.memberBody {
+    font-style: italic;
+    padding-left: 36px;
+}
+
+
+#methods {
+	width: 96%;
+	padding: 1em 2%;
+	background-color: #fff;
+	
+	font-family: "Calibri Light", sans-serif;
+}
+
+.method {
+    width: 100%;
+	margin-bottom: 1em;
+}
+
+.methodHeader {
+	font-weight: 600;
+}
+
+.methodBody {
+    font-style: italic;
+    padding-left: 36px;
+}
